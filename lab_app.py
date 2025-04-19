@@ -1,6 +1,5 @@
 # app.py - Main application file
 import streamlit as st
-from streamlit_option_menu import option_menu
 import hashlib
 import sqlite3
 import pandas as pd
