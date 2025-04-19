@@ -1,0 +1,7 @@
+streamlit
+hashlib
+pandas
+plotly
+reportlab
+numpy
+Pillow
